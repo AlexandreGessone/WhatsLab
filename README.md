@@ -1,2 +1,2 @@
 # WhatsLab
-Protópico de aplicativo para troca de mensagens
+Protótipo de aplicativo para troca de mensagens
